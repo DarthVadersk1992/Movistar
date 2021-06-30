@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mobile-automation-framework" />
+        <module name="web-automation-framework" />
+        <module name="automation-mimovistar-0423" />
+        <module name="Proyect_Automation" />
+        <module name="automation-mimovistar-0512-opm" />
+        <module name="automation-mimovistar-0306" />
+        <module name="automation_visor" />
+        <module name="Proyecto_Automation" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
